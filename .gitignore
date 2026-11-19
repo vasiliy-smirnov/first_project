@@ -1,0 +1,7 @@
+**/*.tmp
+# игнорировать папки:
+backend_test_homework/
+venv/
+cofee_bar/
+# Игонорировать файлы:
+pytest.ini
